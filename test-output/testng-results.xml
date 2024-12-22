@@ -2,48 +2,48 @@
 <testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-01-10T18:45:02 GMT-05:00" name="Suite" finished-at="2024-01-10T18:45:02 GMT-05:00" duration-ms="0">
+  <suite started-at="2024-12-22T03:56:13 GMT-05:00" name="Suite" finished-at="2024-12-22T03:56:14 GMT-05:00" duration-ms="430">
     <groups>
     </groups>
-  </suite> <!-- Suite -->
-  <suite started-at="2024-01-10T18:45:01 GMT-05:00" name="Suite (1)" finished-at="2024-01-10T18:45:02 GMT-05:00" duration-ms="49">
-    <groups>
-    </groups>
-    <test started-at="2024-01-10T18:45:01 GMT-05:00" name="Test" finished-at="2024-01-10T18:45:02 GMT-05:00" duration-ms="49">
-      <class name="Registration.Facebook">
-        <test-method signature="Create()[pri:0, instance:Registration.Facebook@78641d23]" started-at="2024-01-10T18:45:01 GMT-05:00" name="Create" finished-at="2024-01-10T18:45:02 GMT-05:00" duration-ms="9" status="PASS">
+    <test started-at="2024-12-22T03:56:13 GMT-05:00" name="Test" finished-at="2024-12-22T03:56:14 GMT-05:00" duration-ms="430">
+      <class name="Login.Amazon">
+        <test-method signature="Defect()[pri:0, instance:Login.Amazon@6c2ed0cd]" started-at="2024-12-22T03:56:14 GMT-05:00" name="Defect" finished-at="2024-12-22T03:56:14 GMT-05:00" duration-ms="129" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- Create -->
-        <test-method signature="Home()[pri:0, instance:Registration.Facebook@78641d23]" started-at="2024-01-10T18:45:02 GMT-05:00" name="Home" finished-at="2024-01-10T18:45:02 GMT-05:00" duration-ms="8" status="PASS">
+        </test-method> <!-- Defect -->
+        <test-method signature="Good()[pri:0, instance:Login.Amazon@6c2ed0cd]" started-at="2024-12-22T03:56:14 GMT-05:00" name="Good" finished-at="2024-12-22T03:56:14 GMT-05:00" duration-ms="7" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- Home -->
-        <test-method signature="Upload()[pri:0, instance:Registration.Facebook@78641d23]" started-at="2024-01-10T18:45:02 GMT-05:00" name="Upload" finished-at="2024-01-10T18:45:02 GMT-05:00" duration-ms="8" status="PASS">
+        </test-method> <!-- Good -->
+        <test-method signature="Product()[pri:0, instance:Login.Amazon@6c2ed0cd]" started-at="2024-12-22T03:56:14 GMT-05:00" name="Product" finished-at="2024-12-22T03:56:14 GMT-05:00" duration-ms="11" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- Upload -->
-      </class> <!-- Registration.Facebook -->
+        </test-method> <!-- Product -->
+      </class> <!-- Login.Amazon -->
     </test> <!-- Test -->
-  </suite> <!-- Suite (1) -->
-  <suite started-at="2024-01-10T18:45:01 GMT-05:00" name="Suite (0)" finished-at="2024-01-10T18:45:01 GMT-05:00" duration-ms="409">
+  </suite> <!-- Suite -->
+  <suite started-at="2024-12-22T03:56:14 GMT-05:00" name="Suite (0)" finished-at="2024-12-22T03:56:14 GMT-05:00" duration-ms="75">
     <groups>
     </groups>
-    <test started-at="2024-01-10T18:45:01 GMT-05:00" name="Test" finished-at="2024-01-10T18:45:01 GMT-05:00" duration-ms="409">
+    <test started-at="2024-12-22T03:56:14 GMT-05:00" name="Test" finished-at="2024-12-22T03:56:14 GMT-05:00" duration-ms="75">
       <class name="Registration.Facebook">
-        <test-method signature="Create()[pri:0, instance:Registration.Facebook@6c2ed0cd]" started-at="2024-01-10T18:45:01 GMT-05:00" name="Create" finished-at="2024-01-10T18:45:01 GMT-05:00" duration-ms="124" status="PASS">
+        <test-method signature="Create()[pri:0, instance:Registration.Facebook@2f67b837]" started-at="2024-12-22T03:56:14 GMT-05:00" name="Create" finished-at="2024-12-22T03:56:14 GMT-05:00" duration-ms="12" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Create -->
-        <test-method signature="Home()[pri:0, instance:Registration.Facebook@6c2ed0cd]" started-at="2024-01-10T18:45:01 GMT-05:00" name="Home" finished-at="2024-01-10T18:45:01 GMT-05:00" duration-ms="10" status="PASS">
+        <test-method signature="Home()[pri:0, instance:Registration.Facebook@2f67b837]" started-at="2024-12-22T03:56:14 GMT-05:00" name="Home" finished-at="2024-12-22T03:56:14 GMT-05:00" duration-ms="6" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Home -->
-        <test-method signature="Upload()[pri:0, instance:Registration.Facebook@6c2ed0cd]" started-at="2024-01-10T18:45:01 GMT-05:00" name="Upload" finished-at="2024-01-10T18:45:01 GMT-05:00" duration-ms="21" status="PASS">
+        <test-method signature="Upload()[pri:0, instance:Registration.Facebook@2f67b837]" started-at="2024-12-22T03:56:14 GMT-05:00" name="Upload" finished-at="2024-12-22T03:56:14 GMT-05:00" duration-ms="34" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Upload -->
       </class> <!-- Registration.Facebook -->
     </test> <!-- Test -->
   </suite> <!-- Suite (0) -->
+  <suite started-at="2024-12-22T03:56:14 GMT-05:00" name="Master Suite" finished-at="2024-12-22T03:56:14 GMT-05:00" duration-ms="0">
+    <groups>
+    </groups>
+  </suite> <!-- Master Suite -->
 </testng-results>

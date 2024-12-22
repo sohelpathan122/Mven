@@ -1,2 +1,2 @@
-C:\Users\Admin\Downloads\eclipse-java-2023-09-R-win32-x86_64\Maven_pr\Registration.xml
+C:\Users\Admin\Downloads\eclipse-java64\Maven_pr
 mvn test
